@@ -1,0 +1,19 @@
+#Lara Formstone
+#Apunte 2
+
+Print ("valor No.1: ")
+val1 = int(input())
+
+Print ("Valor No.2: ")
+val2 = int(input())
+
+if val1 < val2:
+    res = val1 + val2
+else: 
+    if val1 > val2:
+        res = val1 - val2
+    else:
+        res =val1 * val2
+        
+print ("resultado", res)
+    

@@ -1,0 +1,19 @@
+#Lara Formstone
+
+print("sueldo basico: ")
+sueBas = int(input())
+print("valor renta: ")
+valVen = int(input())
+
+if valVen = <100000:
+    proCom = 10
+else:
+    proCom = 15
+
+
+valCom = valVen * porCom/100
+sueNet = sueBas + valCom
+
+print("porcentaje de comision: ", porCom)
+print("valor de comision: ", valCom)
+print("sueldo neto; ", sueNet)
