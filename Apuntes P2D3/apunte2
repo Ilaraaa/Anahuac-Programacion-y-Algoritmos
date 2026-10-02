@@ -1,10 +1,7 @@
-#Lara Formstone
-#Apunte 2
-
-Print ("valor No.1: ")
+print ("valor No.1: ")
 val1 = int(input())
 
-Print ("Valor No.2: ")
+print ("Valor No.2: ")
 val2 = int(input())
 
 if val1 < val2:
