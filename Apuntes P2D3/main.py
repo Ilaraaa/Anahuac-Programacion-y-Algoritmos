@@ -1,4 +1,3 @@
-
 #LaraFormstone
 # Apunte1
 #Solicitar la edad de una persona
@@ -12,5 +11,5 @@ if edad < 10:
     print ("eres un niño, ve a dormir")
     print ("toma un chocomilk")
     
-    else: 
-        print ("Haz tu tarea o ve a trabajr")
+else: 
+    print ("Haz tu tarea o ve a trabajr")
