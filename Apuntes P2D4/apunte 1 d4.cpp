@@ -7,7 +7,7 @@ using namespace std;
 int main() 
 {
     int dia;
-    cout << "Ingrese un numero del 1 al 7";
+    cout << "Ingrese un numero del 1 al 7" << endl;
     cin >> dia; 
 
     switch(dia) {
@@ -21,4 +21,3 @@ int main()
         default: cout << "Error. el número debe estar entre 1 y 7." << endl; break;
     }
     return 0;
-}
